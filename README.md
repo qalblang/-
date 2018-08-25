@@ -1,2 +1,3 @@
-# -
-Python package for qalblang
+# الخدمات 
+Python service package for qalblang
+
