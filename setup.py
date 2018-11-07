@@ -8,10 +8,10 @@ setuptools.setup(
     version="0.0.1",
     author="Mohammad Quadri",
     author_email="quadrixm@example.com",
-    description="Python service package for qalblang",
+    description="Python service package for yalang",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/qalblang/qalblang-service",
+    url="https://github.com/yalang/yalang-service",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
